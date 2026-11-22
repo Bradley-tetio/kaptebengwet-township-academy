@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bradley-tetio.github.io/kaptebengwet-township-academy/sitemap.xml
